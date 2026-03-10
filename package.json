@@ -1,0 +1,16 @@
+{
+  "name": "webcore-4304-zephyr-2026-03-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.29.3",
+  "resolutions": {
+    "@module-federation/dts-plugin": "2.0.1"
+  }
+}
