@@ -5,7 +5,7 @@ export default () => {
 
   return (
     <>
-      <div>Counter: Remote v2</div>
+      <div>Counter: Remote v3</div>
       <button onClick={() => setCount((count) => count + 1)}>
         count is {count}
       </button>
