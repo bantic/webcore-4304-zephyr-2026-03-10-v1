@@ -1,6 +1,9 @@
 {
   "compilerOptions": {
-    "rootDir": "./src"
+    "rootDir": "./src",
+    "paths": {
+      "*": ["./@mf-types/*"]
+    }
   },
   "files": [],
   "references": [
