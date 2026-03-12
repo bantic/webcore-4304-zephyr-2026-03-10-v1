@@ -4,6 +4,7 @@ import { withZephyr } from "vite-plugin-zephyr";
 
 const mfConfig = {
   name: "remote",
+  filename: "remoteEntry.js",
   exposes: {
     "./Counter": "./src/Counter.tsx",
   },
